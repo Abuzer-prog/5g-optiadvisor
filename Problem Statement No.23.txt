@@ -1,0 +1,13 @@
+Problem Statement No.23 : AI-Based 5G Network Optimization Advisor
+
+The Challenge
+5G networks support high-speed communication, low latency, and large-scale device connectivity. However, maintaining optimal performance is challenging due to fluctuating traffic loads, spectrum congestion, and energy consumption issues. Telecom engineers must continuously analyze network data to identify inefficiencies and optimize resource allocation. Traditional monitoring tools provide raw data but lack intelligent insights. The challenge is to create a system that can analyze network performance data and recommend optimization strategies automatically.
+
+The Objective 
+Build an AI-powered 5G Network Optimization Advisor that analyzes network traffic patterns and provides recommendations for improving network efficiency.
+
+ The solution should: 
+1. Analyze Network Traffic :- Process performance metrics such as bandwidth usage, latency, and network congestion. 
+2. Detect Performance Issues :- Identify inefficient resource utilization and potential bottlenecks in the network.
+3. Provide Optimization Recommendations :- Suggest strategies to improve bandwidth allocation, reduce congestion, and enhance energy efficiency. 
+4. Visualize Network Insights :- Display network analytics and optimization suggestions through an interactive dashboard. 
